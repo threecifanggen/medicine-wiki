@@ -21,7 +21,7 @@ sphinx.application.ExtensionError = sphinx.errors.ExtensionError
 
 # -- Project information -----------------------------------------------------
 
-project = '3gee医学WIKI'
+project = '3gee医学'
 copyright = '2022, 3gee'
 author = '3gee'
 
@@ -38,6 +38,7 @@ extensions = [
     'sphinxcontrib.kroki',
     'sphinxcontrib.googleanalytics',
     "sphinx_comments",
+    # 'sphinxnotes.any',
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -78,7 +79,8 @@ html_static_path = ['_static']
 source_suffix = {
     '.rst': 'restructuredtext',
     '.txt': 'markdown',
-    '.md': 'markdown',
+    # '.md': 'markdown',
+    '.myst.md': 'markdown',
 }
 
 myst_enable_extensions = [
