@@ -3,8 +3,16 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to 3gee医学WIKI's documentation!
+3gee的医学WIKI
 ========================================
+
+这是一个由我维护的关于医学（主要偏物理治疗和中医）相关的WIKI，方便自己和大家查阅。
+
+.. warning::
+
+   这里提供的医疗建议均是自己收集的成果，不代表任何利益方，且不代表任何医学建议。请
+   咨询自己的主治医师了解正确的医疗规范步骤。所有尝试本网站的治疗、康复、保健内容概
+   不负责。
 
 .. toctree::
    :maxdepth: 2

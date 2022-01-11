@@ -11,8 +11,12 @@
 # documentation root, use os.path.abspath to make it absolute, like shown here.
 #
 # import os
-# import sys
+import sys
 # sys.path.insert(0, os.path.abspath('.'))
+
+import sphinx.application
+import sphinx.errors
+sphinx.application.ExtensionError = sphinx.errors.ExtensionError
 
 
 # -- Project information -----------------------------------------------------
@@ -95,7 +99,7 @@ myst_enable_extensions = [
 if sys.platform == 'win32':
     graphviz_dot_args = ['-Gfontname=Simsun', '-Efontname=Simsun', '-Nfontname=Simsun']
 
-googleanalytics_id = "UA-56025474-4"
+googleanalytics_id = "UA-56025474-5"
 
 # 评论配置
 comments_config = {
