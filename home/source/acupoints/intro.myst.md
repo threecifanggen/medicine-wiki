@@ -14,7 +14,7 @@ header-rows: 2
   - 阴
   - 阴
 * - 手/足
-  - 阳明
+  - [阳明](大肠经/intro)
   - 太阳
   - 少阳
   - 太阴
@@ -24,7 +24,7 @@ header-rows: 2
   - 大肠经
   - 小肠经
   - 三焦经
-  - [肺经](肺经)
+  - [肺经](肺经/intro)
   - 心经
   - 心包经
 * - 足
@@ -41,6 +41,8 @@ header-rows: 2
 maxdepth: 2
 caption: 目录
 ---
-肺经
 moxibustion/intro
+肺经/intro
+督脉/intro
+大肠经/intro
 ```
