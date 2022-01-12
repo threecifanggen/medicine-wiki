@@ -116,4 +116,4 @@ comments_config = {
 
 
 html_search_language = 'zh'
-html_show_sourcelink = False
+# html_show_sourcelink = False

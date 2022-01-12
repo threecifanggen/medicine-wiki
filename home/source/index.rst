@@ -21,6 +21,7 @@
    acupoints/intro
    trigger_points/intro
    diseases/intro
+   anatomy/intro
 
 
 Indices and tables
