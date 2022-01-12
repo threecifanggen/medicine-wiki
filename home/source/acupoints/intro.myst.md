@@ -42,4 +42,5 @@ maxdepth: 2
 caption: 目录
 ---
 肺经
+moxibustion/intro
 ```

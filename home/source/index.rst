@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-3gee的医学
+3gee医学百科
 ========================================
 
 这是一个由我维护的关于医学（主要偏物理治疗和中医）相关的WIKI，方便自己和大家查阅。
@@ -15,11 +15,12 @@
    不负责。
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Contents:
 
    acupoints/intro
    trigger_points/intro
+   diseases/intro
 
 
 Indices and tables
