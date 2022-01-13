@@ -5,4 +5,5 @@
 maxdepth: 1
 ---
 runner
+肩峰撞击综合症
 ```

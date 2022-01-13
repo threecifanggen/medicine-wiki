@@ -38,6 +38,7 @@ extensions = [
     'sphinxcontrib.kroki',
     'sphinxcontrib.googleanalytics',
     "sphinx_comments",
+    'hoverxref.extension',
     # 'sphinxnotes.any',
 ]
 
@@ -117,3 +118,10 @@ comments_config = {
 
 html_search_language = 'zh'
 # html_show_sourcelink = False
+
+hoverxref_auto_ref = True
+
+myst_html_meta = {
+    "description lang=zh_CN": "黄宝臣(AKA 3GEE)的医学百科",
+    "keywords": "3GEE, threecifanggen, 黄宝臣, 3gee, 医学百科",
+}
