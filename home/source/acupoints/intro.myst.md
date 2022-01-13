@@ -96,4 +96,8 @@ caption: 经络索引
 小肠经/intro
 心经/intro
 心包经/intro
+
+带脉/intro
+冲脉/intro
+阴跷脉/intro
 ```
