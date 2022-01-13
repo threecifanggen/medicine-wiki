@@ -18,11 +18,15 @@
    :maxdepth: 1
    :caption: Contents:
 
-   acupoints/intro
+   anatomy/intro
+   fascia/intro
    trigger_points/intro
+
    sport_diseases/intro
    diseases/intro
-   anatomy/intro
+   
+   acupoints/intro
+   ctm/intro
 
 
 Indices and tables
