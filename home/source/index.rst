@@ -20,6 +20,7 @@
 
    acupoints/intro
    trigger_points/intro
+   sport_diseases/intro
    diseases/intro
    anatomy/intro
 
