@@ -68,7 +68,7 @@ html_theme = 'sphinx_book_theme'
 html_theme_options = {
     'repository_url' : 'https://github.com/threecifanggen/my-work-wiki',
     "use_repository_button": True,
-    "show_navbar_depth": 3
+    "show_navbar_depth": 1
 }
 
 
@@ -125,3 +125,7 @@ myst_html_meta = {
     "description lang=zh_CN": "黄宝臣(AKA 3GEE)的医学百科",
     "keywords": "3GEE, threecifanggen, 黄宝臣, 3gee, 医学百科",
 }
+
+html_favicon = 'logo/3gee-logo.ico'
+html_logo = "logo/3gee-logo-circle.png"
+html_title = "3GEE医学百科"

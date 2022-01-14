@@ -1,10 +1,10 @@
-# 中药
+# 皮肤相关疾病
 
 ```{toctree}
 ---
 maxdepth: 1
 ---
 
-草/intro
-木/intro
+湿疹
+荨麻疹
 ```
