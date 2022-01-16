@@ -16,6 +16,7 @@ sphinxcontrib-googleanalytics = "^0.1"
 sphinx-comments = "^0.3.0"
 sphinx-any = "^2.2"
 sphinx-hoverxref = "1.0.0"
+sphinx-panel = "0.6.0"
 
 [tool.poetry.dev-dependencies]
 

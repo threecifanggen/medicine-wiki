@@ -39,6 +39,7 @@ extensions = [
     'sphinxcontrib.googleanalytics',
     "sphinx_comments",
     'hoverxref.extension',
+    "sphinx_panels",
     # 'sphinxnotes.any',
 ]
 
@@ -79,7 +80,7 @@ html_static_path = ['_static']
 
 source_suffix = {
     '.rst': 'restructuredtext',
-    '.txt': 'markdown',
+    # '.txt': 'markdown',
     # '.md': 'markdown',
     '.myst.md': 'markdown',
 }
@@ -126,6 +127,12 @@ myst_html_meta = {
     "keywords": "3GEE, threecifanggen, 黄宝臣, 3gee, 医学百科",
 }
 
+# html_search_options = {
+#     "dict": "dict/user_dict.txt"
+# }
+
 html_favicon = 'logo/3gee-logo.ico'
 html_logo = "logo/3gee-logo-circle.png"
 html_title = "3GEE医学百科"
+
+panels_add_bootstrap_css = False
