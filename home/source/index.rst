@@ -25,9 +25,7 @@
    :maxdepth: 1
 
    anatomy/intro
-   fascia/intro
    physical_therapy/intro
-   trigger_points/intro
 
    sport_diseases/intro
    diseases/intro
