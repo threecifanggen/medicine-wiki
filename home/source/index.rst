@@ -30,6 +30,7 @@
    sport_diseases/intro
    diseases/intro
    
+   cm/intro
    acupoints/intro
    ctm/intro
 

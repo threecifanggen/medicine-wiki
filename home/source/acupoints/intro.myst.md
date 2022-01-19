@@ -62,17 +62,6 @@ header-rows: 2
 ```
 
 
-## 治疗方法
-
-```{toctree}
----
-maxdepth: 2
-caption: 目录
----
-moxibustion/intro
-
-```
-
 ## 经络索引
 
 ```{toctree}
@@ -100,4 +89,38 @@ caption: 经络索引
 带脉/intro
 冲脉/intro
 阴跷脉/intro
+```
+
+## 基本概念
+
+### 具体实践
+
+```{toctree}
+---
+maxdepth: 1
+---
+
+取穴配伍
+得气
+moxibustion/intro
+```
+
+### 奇经八脉
+
+```{toctree}
+---
+maxdepth: 1
+---
+
+八脉交会穴
+```
+
+### 常用歌诀
+
+```{toctree}
+---
+maxdepth: 1
+---
+
+玉龙歌
 ```
