@@ -89,6 +89,7 @@ caption: 经络索引
 带脉/intro
 冲脉/intro
 阴跷脉/intro
+阴维脉/intro
 ```
 
 ## 基本概念
