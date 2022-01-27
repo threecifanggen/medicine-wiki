@@ -17,6 +17,8 @@ sphinx-comments = "^0.3.0"
 sphinx-any = "^2.2"
 sphinx-hoverxref = "1.0.0"
 sphinx-panel = "0.6.0"
+sphinxcontrib-excel-table-plus = "1.0.8.2"
+sphinxcontrib-mermaid = "0.7.1"
 
 [tool.poetry.dev-dependencies]
 
