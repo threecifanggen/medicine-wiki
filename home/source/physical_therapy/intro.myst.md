@@ -6,6 +6,7 @@ maxdepth: 1
 ---
 
 拉伸/intro
+按摩/intro
 fascia/intro
 trigger_points/intro
 ```
