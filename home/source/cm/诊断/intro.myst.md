@@ -1,10 +1,9 @@
-# 中医
+# 中医诊断
 
 ```{toctree}
 ---
 maxdepth: 1
 ---
 
-classic/intro
-诊断/intro
+舌诊/intro
 ```
