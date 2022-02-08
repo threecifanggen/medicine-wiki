@@ -9,4 +9,5 @@ skin/intro
 sport/intro
 体态问题/intro
 digest/intro
+局部疼痛/intro
 ```
